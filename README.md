@@ -67,6 +67,10 @@ An interactive script that creates a personalized manifesto.
 
 ---
 
+## 🔍 Approach
+
+The project was completed in a step-by-step manner. First, WSL and Ubuntu were set up on Windows, followed by installation and configuration of the Apache web server. After verifying the server functionality, individual Bash scripts were developed for different tasks such as system information, package inspection, and log analysis. Each script was tested and refined to ensure correct output.
+
 ## ▶️ Step-by-Step Run Instructions
 
 1. Navigate to project directory:
@@ -94,6 +98,14 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 - **Utilities**: `dpkg`, `awk`, `grep`, `du`, `tail`, `date`, `whoami`  
 
 ---
+
+## 📊 Findings
+
+- Apache server was successfully installed and configured on WSL.
+- Shell scripts helped automate system-level tasks efficiently.
+- Commands like dpkg, grep, and awk proved useful for data extraction.
+- Log analysis helped in identifying errors quickly.
+- Open-source tools provide flexibility and ease of use in development.
 
 ## 📖 Learning Outcome
 
